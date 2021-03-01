@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a secret comedian and gamer
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vishugosain&show_icons=true&theme=algolia&count_private=true). 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vishugosain&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishugosain&layout=compact)](https://github.com/anuraghazra/github-readme-stats). 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishugosain&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishugosain&theme=dracula)
