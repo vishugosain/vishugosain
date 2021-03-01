@@ -7,4 +7,4 @@
 - 💬 Ask me about Web development.
 - 📫 How to reach me: You can directly contact me on twitter, Gmail or LinkedIn
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am secret stand up comedian and gamer
+- ⚡ Fun fact: I am a secret comedian and gamer
