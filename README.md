@@ -8,9 +8,8 @@
 - 📫 How to reach me: [Vishal Gosain](https://twitter.com/vishugosain)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like calligraphy
+- My Blog - vishugosain.hashnode.dev
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vishugosain&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishugosain&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishugosain&theme=dracula)
