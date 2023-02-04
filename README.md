@@ -7,7 +7,7 @@
 - 💬 Ask me about Web development.
 - 📫 How to reach me: [Vishal Gosain](https://twitter.com/vishugosain)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a secret comedian and gamer
+- ⚡ Fun fact: I like calligraphy
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vishugosain&show_icons=true&theme=radical&count_private=true)
 
